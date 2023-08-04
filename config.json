@@ -1,4 +1,4 @@
-{ 
+{
     "MODEL_NAME": "resnet_v1-50", 
     "MODEL": {
         "MODEL_STORE_KEY": "resnet_v1-50.pb",
