@@ -1,5 +1,5 @@
 { 
-    "MODEL_NAME": "resnet_v1-50",  
+    "MODEL_NAME": "resnet_v1-50", 
     "MODEL": {
         "MODEL_STORE_KEY": "resnet_v1-50.pb",
         "MODEL_STORE_BUCKET": "cuala-model-storage",
