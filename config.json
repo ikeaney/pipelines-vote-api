@@ -4,6 +4,7 @@
         "MODEL_STORE_KEY": "resnet_v1-50.pb",
         "MODEL_STORE_BUCKET": "cuala-model-storage",
         "MODEL_STORE_ENDPOINT": "s3.eu-de.cloud-object-storage.appdomain.cloud"
+        "DEVICE": "myriadx"
     } 
     
 } 
