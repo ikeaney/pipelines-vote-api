@@ -2,8 +2,8 @@
     "MODEL_NAME": "resnet_v1-50",
     "MODEL": {
         "MODEL_STORE_KEY": "resnet_v1-50.pb",
-        "MODEL_STORE_BUCKET": "cuala-model-storage",
-        "MODEL_STORE_ENDPOINT": "s3.eu-de.cloud-object-storage.appdomain.cloud",
+        "MODEL_STORE_BUCKET": "dev-cos-object-storage-icoq2myb",
+        "MODEL_STORE_ENDPOINT": "https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints",
         "DEVICE": "myriad2"  
     } 
     
