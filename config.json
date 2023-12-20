@@ -5,6 +5,6 @@
         "MODEL_STORE_BUCKET": "dev-cos-object-storage-icoq2myb",
         "MODEL_STORE_ENDPOINT": "s3.eu-de.cloud-object-storage.appdomain.cloud",   
         "DEVICE": "myriad2"
-    }   
+    } 
 
 } 
