@@ -1,5 +1,5 @@
 {
-    "MODEL_NAME": "mmodel_maria",
+    "MODEL_NAME": "model_maria",
     "USER_EMAIL": "iain.keaney@gmail.com",
     "MODEL": {
         "MODEL_STORE_KEY": "model_maria.pb",  
