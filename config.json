@@ -4,7 +4,7 @@
     "MODEL": {
         "MODEL_STORE_KEY": "model_iain.pb",  
         "MODEL_STORE_BUCKET": "cuala-model-storage",
-        "MODEL_STORE_ENDPOINT": "s3.eu-de.cloud-object-storage.appdomain.cloud",
+        "MODEL_STORE_ENDPOINT": "s3.eu-de.cloud-object-storage.appdomain.cloud",  
         "INPUT_SIZE": [1,224,224,3],
         "MEAN": [0,0,0],
         "SCALE": [1,1,1]
