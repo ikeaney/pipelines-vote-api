@@ -1,10 +1,13 @@
 {
-    "MODEL_NAME": "resnet_v1-50",
-    "MODEL": {  
-        "MODEL_STORE_KEY": "resnet_v1-50.pb",
-        "MODEL_STORE_BUCKET": "dev-cos-object-storage-icoq2myb",
+    "MODEL_NAME": "model_iain",
+    "USER_EMAIL": "iain.keaney@gmail.com",
+    "MODEL": {
+        "MODEL_STORE_KEY": "model_iain.pb",  
+        "MODEL_STORE_BUCKET": "cuala-model-storage",
         "MODEL_STORE_ENDPOINT": "s3.eu-de.cloud-object-storage.appdomain.cloud",
-        "DEVICE": "myriad2"
-    } 
-
-}   
+        "INPUT_SIZE": [1,224,224,3],
+        "MEAN": [0,0,0],
+        "SCALE": [1,1,1]
+    }      
+    
+} 
