@@ -2,7 +2,7 @@
     "MODEL_NAME": "model_maria",
     "USER_EMAIL": "iain.keaney@ubotica.com",
     "MODEL": {  
-        "MODEL_STORE_KEY": "model_maria.pb",  
+        "MODEL_STORE_KEY": "model_mar1a.pb",  
         "MODEL_STORE_BUCKET": "roks-cl90hsof0l2k00htpddg-0288",
         "MODEL_STORE_ENDPOINT": "s3.eu-de.cloud-object-storage.appdomain.cloud",  
         "INPUT_SIZE": [1,224,224,3],
