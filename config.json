@@ -1,5 +1,5 @@
 {
-    "MODEL_NAME": "model_maria",
+    "MODEL_NAME": "test",
     "USER_EMAIL": "iain.keaney@ubotica.com",
     "MODEL": {  
         "MODEL_STORE_KEY": "model_maria.pb",  
